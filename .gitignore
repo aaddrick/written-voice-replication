@@ -1,0 +1,15 @@
+# Data files (users bring their own)
+data/
+*.csv
+
+# Generated analysis reports (pipeline output)
+docs/analysis/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
