@@ -3,10 +3,6 @@ name: aaddrick-voice-replication
 description: Use when generating text, drafting responses, composing messages, or producing any written content that should sound like aaddrick, when the user asks to write in their voice or style, or when the aaddrick-voice agent needs a reference for voice constraints and few-shot examples
 ---
 
-> **Note:** This skill is an example of completed pipeline output. It was generated
-> by running the full 25-skill analysis pipeline against a Reddit data export.
-> Your pipeline run will produce a similar skill customized to your corpus.
-
 # aaddrick Voice Replication
 
 ## Overview

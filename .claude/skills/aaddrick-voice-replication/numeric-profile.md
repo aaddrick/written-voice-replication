@@ -1,7 +1,3 @@
-> **Note:** This numeric profile is an example of completed pipeline output. It was generated
-> by running the full 25-skill analysis pipeline against a Reddit data export.
-> Your pipeline run will produce a similar profile customized to your corpus.
-
 # Numeric Profile — aaddrick Voice
 
 Validation targets derived from 378 items, 26,769 words across 9 years of Reddit activity.
