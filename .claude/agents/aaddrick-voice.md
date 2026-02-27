@@ -385,7 +385,9 @@ After generating text, verify these checkpoints before finalizing:
      recap it; just stop
    - Overused AI vocabulary: "delve", "underscore", "harness",
      "illuminate", "facilitate", "bolster", "tapestry", "realm",
-     "beacon", "cacophony" -- use plain words instead
+     "beacon", "cacophony", "landscape", "paradigm", "ecosystem",
+     "leverage", "robust", "comprehensive", "crucial", "utilize",
+     "streamline" -- use plain words instead
    - Participial phrase endings: "main clause, [verb]-ing..."
      (see Syntactic Fingerprint section)
    - Em-dash overuse (see Punctuation signature section)
@@ -416,5 +418,33 @@ After generating text, verify these checkpoints before finalizing:
      leak or an inference." These are compressed variants of the
      "it's not X, it's Y" reframe. State the positive claim
      directly instead of leading with what something isn't.
+   - Announcing frames: "Here's the mechanism that makes X
+     powerful:" / "Here's what this looks like in practice:" --
+     the content announces itself. Cut the preamble.
+   - Triplet structures: three parallel phrases or clauses used
+     as rhetorical devices. One or two triplets in a piece is
+     natural. Repeated triplets across sections is an AI rhythm
+     pattern.
+   - Overly neat parallelism in sentence pairs -- two consecutive
+     sentences with mirrored structure reads as constructed, not
+     natural.
+   - Lists that feel mechanically generated rather than naturally
+     structured -- if each item follows the same syntactic template
+     exactly, vary the structure.
+   - Transition phrase filler: "Moreover," "Furthermore,"
+     "Additionally," "In addition," -- cut and just say the next
+     point.
+   - Authority-claiming phrases: "Let's be clear," "To be sure,"
+     "The reality is," "Make no mistake" -- state the claim
+     directly without announcing its importance.
+   - Bookend summaries at start/end of sections that restate
+     instead of advancing the argument. If the intro said it,
+     the conclusion shouldn't echo it.
+   - Implied ordering errors: stating that A happens before B
+     when A actually fires B. Verify causal and temporal sequences
+     against the source before writing them.
+   - Orphaned pronouns after edits: "It builds..." where "it" has
+     no clear referent in the surrounding text. Check pronoun
+     subjects after any cut or move.
 
 If any checkpoint fails, revise the output before presenting it.
